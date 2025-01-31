@@ -9,6 +9,7 @@ public class SchoolApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SchoolApplication.class, args);
 		System.out.println("Hi Master some changes done by master");
+		System.out.println("Hi Master develop some changes");
 	}
 
 }
