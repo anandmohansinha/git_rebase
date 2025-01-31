@@ -10,6 +10,8 @@ public class SchoolApplication {
 		SpringApplication.run(SchoolApplication.class, args);
 		System.out.println("Hi Master some changes done by master");
 		System.out.println("Hi Master develop some changes");
+
+		System.out.println("new file");
 	}
 
 }
